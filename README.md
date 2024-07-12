@@ -10,10 +10,10 @@ Influenza, commonly known as the flu, is a contagious respiratory illness caused
 - **Influenza C** viruses cause mild illnesses and do not seem to cause epidemics.
 - **Influenza D** viruses mainly affect cattle and do not infect humans.
   
-Monitoring and analyzing influenza case data is essential for public health as it helps identify seasonal trends, monitor outbreaks, and guide effective intervention strategies.
+Monitoring and analyzing influenza case data is essential for public health as it helps identify seasonal trends, track potential outbreaks, and guide effective intervention strategies.
 
 ## Data Source
-The dataset used in this project is titled “Influenza Positive Tests Reported to CDC by Clinical Laboratories, National Summary, 2023-24 Season”, covering the period up to the week ending June 29, 2024. The data is sourced from the [CDC Flu Weekly Reports](https://www.cdc.gov/flu/weekly/index.htm).
+The dataset used in this project is titled **“Influenza Positive Tests Reported to CDC by Clinical Laboratories, National Summary, 2023-24 Season”**, covering the period up to the week ending June 29, 2024. The data is sourced from the [CDC Flu Weekly Reports](https://www.cdc.gov/flu/weekly/index.htm).
 
 For this project, the dataset was processed to focus on the number of positive cases for Influenza Type A and Type B each week.
 
@@ -26,6 +26,11 @@ For this project, the dataset was processed to focus on the number of positive c
 The program was written in PyCharm. You may run the program on Google Colab by clicking on the colab badge below.
 
 ## Results
+**1. LINE PLOT**
+![Line Plot](https://github.com/user-attachments/assets/f7e16ca2-4a9d-48cc-a84a-99b379533118)
+
+**2. ROLLING MEAN-STD PLOT**
+![Rolling Mean-Std](https://github.com/user-attachments/assets/f4cd599f-38e7-4596-8d84-6756e2edf75b)
 
 ## Inference
 
