@@ -40,6 +40,8 @@ Following the line plot, we apply rolling statistical techniques to further anal
 The rolling standard deviation is calculated to measure the variability of the influenza case counts. This statistic helps to identify periods of increased fluctuation and potential outliers, providing insights into the stability of the case counts and the presence of significant deviations from the trend.
 
 ## Observation
+For the purpose of this analysis, we will focus exclusively on Graph 2 to have a more detailed understanding of the trends and variability over time.
+
 ### Graph 2: Rolling Mean and Standard Deviation
 
 - **Influenza Type A:**
