@@ -23,7 +23,7 @@ For this project, the dataset was processed to focus on the number of positive c
 - Matplotlib: Employed for creating visualizations - line plots and rolling mean/standard deviation plots.
 
 ## Program Code
-The program was written in PyCharm. You may run the program on Google Colab by clicking on the colab badge below.
+The program was written in PyCharm. You may access the [Program](Program) file here or run the code on Google Colab by clicking on the colab badge below.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1ngtyjvaxjVPGCdPp1-BmUKRg6b4Lrhzp)
 ## Program Output
