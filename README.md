@@ -25,6 +25,8 @@ For this project, the dataset was processed to focus on the number of positive c
 ## Program Code
 The program was written in PyCharm. You may run the program on Google Colab by clicking on the colab badge below.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](VIS-Analysis-of-Influenza.ipynb)
+
 ## Program Output
 **1. LINE PLOT**
 ![Line Plot](https://github.com/user-attachments/assets/f7e16ca2-4a9d-48cc-a84a-99b379533118)
