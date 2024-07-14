@@ -13,7 +13,7 @@ Influenza, commonly known as the flu, is a contagious respiratory illness caused
 Monitoring and analyzing influenza case data is essential for public health as it helps identify seasonal trends, track potential outbreaks, and guide effective intervention strategies.
 
 ## Data Source
-The dataset used in this project is titled **“Influenza Positive Tests Reported to CDC by Clinical Laboratories, National Summary, 2023-24 Season”**, covering the period up to the week ending June 29, 2024. The data is sourced from the [CDC Flu Weekly Reports](https://www.cdc.gov/flu/weekly/index.htm).
+The dataset used in this project is titled **“Influenza Positive Tests Reported to CDC by Clinical Laboratories, National Summary, 2023-24 Season”**, covering the period up to the week ending June 29, 2024. This is sourced from the [CDC Flu Weekly Reports](https://www.cdc.gov/flu/weekly/index.htm).
 
 For this project, the dataset was processed to focus on the number of positive cases for Influenza Type A and Type B each week.
 
